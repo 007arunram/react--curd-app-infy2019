@@ -1,0 +1,136 @@
+h1, p {
+  font-family: Lato;
+}h1, p {
+  font-family: Lato;
+}
+
+.nav01{
+  background-color: #ccc;
+  width: 100%;
+  height: 30px;
+}
+.nav01 ul{
+  list-style:none;
+  display: flex;
+}
+.nav01 ul li a{
+  text-decoration: none;
+  color: #1e90ff;
+  padding: 10px;
+  line-height: 27px;
+}
+.nav01 ul li a:hover{
+  text-decoration: none;
+  color: red;
+  padding: 10px;
+  line-height: 27px;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  background:#3498db;
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;
+  margin: 20px 0px 20px 0px;   
+}
+
+p{
+  font-size:12px;
+  text-decoration: none;
+  color:#ffffff;
+}
+
+h1{
+  font-size:1.5em;
+  color:#525252;
+}
+
+.box{
+  background:white;
+  width:300px;
+  border-radius:6px;
+  margin: 0 auto 0 auto;
+  padding:0px 0px 70px 0px;
+  border: #2980b9 4px solid; 
+}
+
+.email{
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width:250px;
+  color:#008080;
+  margin-top:10px;
+  font-size:1em;
+  border-radius:4px;
+}
+
+.password{
+  border-radius:4px;
+  background:#ecf0f1;
+  color:#008080;
+  border: #ccc 1px solid;
+  padding: 8px;
+  width:250px;
+  font-size:1em;
+}
+
+.one h1{
+  color: #fff;
+}
+.one p{
+  text-align: left;
+  padding: 5px;
+}
+.box h1{
+  color: #1e90ff;
+}
+.smit{
+  width: 50%;
+  height:30px;
+  background-color: #1e90ff;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+}
+.formtext{
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 4px;
+  width:250px;
+  color:#008080;
+  margin-top:10px;
+  font-size:1em;
+  border-radius:4px;
+}
+.formbg{
+  background-color: #ccc;
+}
+ select {
+       width: 100%;
+       background-color: cadetblue;
+       color: #fff;
+    } 
+    .smit01{
+      margin: 10px;
+      width: 30%;
+  height:30px;
+  background-color: #1e90ff;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+    }
+    .new{
+      background-color: #ccc;
+      border: 2px Dotted black;
+    }
+    .tablesty{
+      background-color: #ccc;
+      width: 500px;
+    }
+    .tablesty td{
+      border: 2px solid black;
+    }
+
